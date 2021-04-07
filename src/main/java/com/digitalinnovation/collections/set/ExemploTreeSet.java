@@ -51,7 +51,6 @@ public class ExemploTreeSet {
         for (String capitais : treeCapitais) {
             System.out.println(capitais);
         }
-        
 
     }
 }
