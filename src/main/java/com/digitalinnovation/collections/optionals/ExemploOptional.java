@@ -1,4 +1,4 @@
-package one.digitalinnovation.optionals;
+package com.digitalinnovation.collections.optionals;
 
 import java.util.Optional;
 

@@ -1,5 +1,4 @@
-package one.digitalinnovation.optionals;
-
+package com.digitalinnovation.collections.optionals;
 import java.util.OptionalDouble;
 import java.util.OptionalInt;
 import java.util.OptionalLong;

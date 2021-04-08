@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class ComparatorsExampleList {
+public class ComparatorsExempleList {
 
     public static void main(String[] args) {
 
